@@ -24,3 +24,7 @@
 0. **[Coding](./coding.md)**
 0. **[Cyber](./cyber.md)**
 0. **[Surviving](./surviving.md)**
+
+## Others
+
+0. **[Xikipedia](https://xikipedia.org/)**

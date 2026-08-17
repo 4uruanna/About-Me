@@ -11,7 +11,6 @@ You can directly download them from my **[skills directory](./skills/)**.
 - **[Ponytail](https://github.com/DietrichGebert/ponytail)** : You show him fifty lines; he looks at them, says nothing, and replaces them with one.
 - **[Improve](https://github.com/shadcn/improve/tree/main)** : Audits any codebase and writes implementation plans for other agents to execute.
 
-
 ### ARTICLES
 
 - **[Avoid floating issues](https://floating-point-gui.de/)** : Guide to avoid real number issues in programming.
@@ -32,6 +31,16 @@ You can directly download them from my **[skills directory](./skills/)**.
 
 - **[W3 Techs](https://w3techs.com)** : It contains usage of various types of technologies on the web.
 
+### CHEATSHEETS
+
+- **[Tmux](./cheatsheets/tmux.md)**
+
+### CURIOSITY
+
+- **[Browsh](https://www.brow.sh/docs/introduction/)** : Browser in a terminal.
+- **[Meshtastic](https://meshtastic.org/)** : LoRa-based mesh networking protocol and software platform. Low-power, long-range communication over ISM radio bands.
+- **[They Live Adblocker](https://github.com/davmlaw/they_live_adblocker)** : Replaces ads with white tiles bearing slogans from John Carpenter's 1988 film.
+
 ### TOOLS
 
 #### COMMON
@@ -46,7 +55,8 @@ You can directly download them from my **[skills directory](./skills/)**.
 
 #### HOSTING
 
-- **[ngrock](https://ngrok.com/)** : ngrok is developer infrastructure that routes and secures traffic to your apps.
+- **[Ngrock](https://ngrok.com/)** : ngrok is developer infrastructure that routes and secures traffic to your apps.
+- **[Caddy](https://caddyserver.com/)** : web server handling TLS for you.
 
 #### LINUX
 

@@ -28,4 +28,5 @@
 - **[KeepassXC](https://keepassxc.org/)** : Password manager.
 - **[Shodan](https://www.shodan.io/)** : Search engine for the internet of everything.
 - **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** : Security scanner for AI agent skills.
+- **[Terminal Phone](https://github.com/edengilbertus/terminalphone)** : Encrypted push-to-talk voice communication over Tor hidden services.
 - **[Wigle](https://www.wigle.net/)** : Wifi network database.
